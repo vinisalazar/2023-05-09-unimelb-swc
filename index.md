@@ -14,8 +14,8 @@ humantime: "9:00 am - 5:00 pm AEST"    # human-readable times for the workshop e
 startdate: 2023-05-09      # machine-readable start date for the workshop in YYYY-MM-DD format like 2015-01-01
 enddate: 2023-05-11        # machine-readable end date for the workshop in YYYY-MM-DD format like 2015-01-02
 instructor: ["Grace Hall", "Jia Qi Beh", "Mar Quiroga", "Damien Mannion"] # boxed, comma-separated list of instructors' names as strings, like ["Kay McNulty", "Betty Jennings", "Betty Snyder"]
-helper: ["Vini Salazar", ]     # boxed, comma-separated list of helpers' names, like ["Marlyn Wescoff", "Fran Bilas", "Ruth Lichterman"]
-collaborative_notes: https://hackmd.io/M3przH9cRpeeqSqV_C6w2g # optional: URL for the workshop collaborative notes, e.g. an Etherpad or Google Docs document (e.g., https://pad.carpentries.org/2015-01-01-euphoria)
+helper: ["Vini Salazar", "Clinton Roy"]     # boxed, comma-separated list of helpers' names, like ["Marlyn Wescoff", "Fran Bilas", "Ruth Lichterman"]
+collaborative_notes: [https://pad.carpentries.org/2023-05-09-unimelb-swc](https://pad.carpentries.org/2023-05-09-unimelb-swc) # optional: URL for the workshop collaborative notes, e.g. an Etherpad or Google Docs document (e.g., https://pad.carpentries.org/2015-01-01-euphoria)
 eventbrite:           # optional: alphanumeric key for Eventbrite registration, e.g., "1234567890AB" (if Eventbrite is being used)
 ---
 
